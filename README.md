@@ -1,4 +1,4 @@
-# Open pull requests for Teams action
+# List pull requests for Teams action
 
 This action lists the open pull requests in a repo for Teams
 
@@ -10,4 +10,4 @@ A summary of open Pull Requests
 
 ## Example usage
 
-uses: actions/open-pr-for-teams-action@v1
+uses: actions/list-pr-for-teams-action@v1
