@@ -1,0 +1,8 @@
+name: 'Hello PRs'
+description: 'Summarize open PRs'
+outputs:
+  summary: # text summary
+    description: 'Summary of Open Pull Requsts'
+runs:
+  using: 'node12'
+  main: 'index.js'
